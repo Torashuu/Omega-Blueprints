@@ -1,0 +1,11 @@
+name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,c/s,c/f,f/s,f/f,crew/s,crew/f,hints,tags,rarity,breakProb,minPieces,maxPieces,travel drive,number
+,aspect,Aspect,Unknown,,,600,300,1000,,200,0,,350,350,350,120,360,50,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,,,,119
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,shard_left,Sinistral Shard,Unknown,microburn_omega,12,2000,500,4000,5000,400,50,,200,250,200,120,360,200,OMNI,,150,0,0.5,,,0,0,10,50,1,50,12,100000,20,5,,,6,6,,,,,,,"UNBOARDABLE, HIDE_IN_CODEX","omega, no_autofit, restricted,omega_ship_package ",,0.5,2,2,,229
+,shard_right,Dextral Shard,Unknown,microburn_omega,12,2000,500,4000,5000,400,50,,200,250,200,120,360,200,OMNI,,150,0,0.5,,,0,0,10,50,1,50,12,100000,20,5,,,6,6,,,,,,,"UNBOARDABLE, HIDE_IN_CODEX","omega, no_autofit, restricted,omega_ship_package ",,0.5,2,2,,230
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,facet,Facet,Unknown,damper_omega,20,5000,800,10000,13333,800,140,,120,150,150,60,180,400,OMNI,,150,0,0.5,,,0,0,20,100,2,50,11,200000,20,5,,,12,12,,,,,,,"UNBOARDABLE, HIDE_IN_CODEX","omega, no_autofit, restricted,omega_ship_package ",,0.5,2,3,,320
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,tesseract,Tesseract,Unknown,temporalshell,40,10000,1500,15000,25000,1500,180,,100,120,120,45,135,2000,OMNI,,150,0,0.5,,,0,0,40,150,3,50,11,500000,20,5,,,24,24,,,,,,,"UNBOARDABLE, HIDE_IN_CODEX","omega, no_autofit, restricted,omega_ship_package ",,0.5,2,3,,415
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ziggurat,ziggurat,Phase Vessel,High Tech,mote_control,40,14000,1500,16000,24000,1200,260,,40,50,50,20,30,2400,PHASE,phasecloak,,,,0.02,0.02,300,400,200,500,10,50,7,1000000,3,50,600,0.25,75,75,,,,,,,HIDE_IN_CODEX,omega_ship_package,,0.4,2,3,,510

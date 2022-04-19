@@ -1,0 +1,5 @@
+name,id,tags,tech/manufacturer,rarity,base price,stack size,cargo space,baseRaidDanger,icon,sound id,sound id drop,plugin,plugin params,desc,order
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Omega Weapons Package,omega_wpn_package,package_bp,,,2000000,1000,1,,graphics/icons/cargo/blueprint_hightech.png,ui_chip_pickup,ui_bp_package_drop,com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin,omega_wpn_package,A collection of weapon blueprints.,280
+Omega Ships Package,omega_ship_package,package_bp,,,2000000,1000,1,,graphics/icons/cargo/blueprint_hightech.png,ui_chip_pickup,ui_bp_package_drop,com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin,omega_ship_package,A collection of ship blueprints.,280

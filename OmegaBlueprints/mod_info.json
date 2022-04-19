@@ -1,0 +1,8 @@
+{
+    "id":"omgbp_omegablueprints", # internal id
+	"name":"Omega Blueprints", # displayed to the player
+	"author":"Torashuu",
+	"version":"1.0",
+	"description":"Omega Blueprints 1.0: Adds blueprints for the Omega weapons, Super redacted & dorito ships",
+    "gameVersion": "0.95.1a-RC6",
+}

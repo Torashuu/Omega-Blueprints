@@ -18,7 +18,7 @@
     #"masterVersionFile":"https://github.com/LazyWizard/VersionChecker/blob/master/versionchecker.version",
     #"masterVersionFile":"https://github.com/LazyWizard/VersionChecker/releases/download/0.1/versionchecker.version",
     #"masterVersionFile":"https://dl.dropboxusercontent.com/u/32722116/Version%20Files/versionchecker.version",
-	"masterVersionFile":"https://github.com/Torashuu/Omega-Blueprints/blob/develop/omega_blueprints.version",
+	"masterVersionFile":"https://raw.githubusercontent.com/Torashuu/Omega-Blueprints/develop/omega_blueprints.version",
 
 	
 	"modName":"Omega Blueprints",
